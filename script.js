@@ -49,3 +49,6 @@ form.addEventListener("submit", function (event) {
 });
 
 render();
+
+  { title: "Préparer la séance 2", done: false },
+  { title: "Apprendre Git et GitHub", done: false }
